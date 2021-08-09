@@ -8,5 +8,4 @@
 -- Used Context Api to handle custom parameters.
 -- Custom Components for reappearing UI elements.
 -- Loading, fetching, success messages on request.
-
 -- Used module css to style the components.
