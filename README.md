@@ -1,5 +1,6 @@
 # FoodOrderingApp
 
+### Features Included: 
 -- Included various hooks.
 -- Custom form for order details.
 -- Form Validation.
